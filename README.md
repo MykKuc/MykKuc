@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MykKuc
 - 👀 I’m interested in Java, Spring Framework, SQL.
 - 🌱 I’m currently learning Java, Spring, SQL, Hibernate ORM.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 MykKuc/MykKuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
