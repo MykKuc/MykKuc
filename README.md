@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MykKuc
 - 👀 I’m interested in Java, Spring Framework, SQL.
 - 🌱 I’m currently learning Java, Spring, SQL, Hibernate ORM.
-- Also I am learning some frontend development using React.js.
+- Also I am learning some frontend development using React.js , but my main focus is still Java and Spring Framework.
 
 
 <!---
