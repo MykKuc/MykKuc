@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MykKuc
-- 👀 I’m interested in Java, Spring Framework, Spring Security, Spring Boot, other Spring Framework projects, SQL.
+- 👋 Hi, I’m Mykolas.
+- 👀 I’m interested in Java, Spring Framework (Spring Boot, Spring Security, Spring Data, etc.), SQL.
 - 🌱 I’m currently learning Java, Spring, SQL, Hibernate ORM.
 - Also I am learning some frontend development using React.js , but my main focus is still Java and Spring Framework.
 
