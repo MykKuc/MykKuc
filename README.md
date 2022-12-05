@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mykolas.
+- :hammer: My current project on AWS: employeemanagementapp.com ; www.employeemanagementapp.com
 - 👀 My main focus is Java programming language. I want to learn as much as possible about it's different versions, features, ways to create applications using it. Also, I am learning Spring Framework and the different sub-parts (Spring Security, Spring Boot, Spring Data JPA, etc.) of it.
 - 🔧 The tools that I am learning or using in my projects include: IntelliJ IDEA, Git, Apache Maven, Apache Tomcat, SQL (MySQL, PostgreSQL), JUnit, Elasticsearch, Docker.
 - 🌱 I’m currently trying to acquire as much knowledge as possible about all these technologies, tools and best applications of them while developing software.
