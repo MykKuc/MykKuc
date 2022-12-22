@@ -5,7 +5,7 @@
 - 🌱 I’m currently trying to acquire as much knowledge as possible about all these technologies, tools and best applications of them while developing software.
 - ➕ Also I am learning some frontend development using React.js , but my main focus is still Java and Spring Framework.
 - :cloud: I am also learning and using some cloud technologies. My only focus is Amazon Web Services. I use Route 53, CloudFront, S3, EC2 (Ubuntu) Instances and Amazon RDS to host my project (employeemanagementapp.com).
-- :pencil2: I am participating and learning full-stack development in the Devbridge Sourcery Academy. 
+- :pencil2: I have completed the Devbridge Sourcery Academy for developers. I learned about developing using Spring Boot, React.js, working with Agile methodology, presenting the finished project. 
 
 
 <!---
