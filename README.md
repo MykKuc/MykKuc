@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mykolas.
-- :hammer: My first project on AWS: employeemanagementapp.com ; www.employeemanagementapp.com
-- :hammer: My second (upcoming) project on AWS: "Things are for sale"
+- :hammer: My first project (Employee Management App) on AWS: employeemanagementapp.com ; www.employeemanagementapp.com
+- :hammer: My second (upcoming) project (Things Are For Sale) on AWS: (upcoming)
 - :pencil2: I have completed the Devbridge Sourcery Academy for developers. I learned about developing using Spring Boot, React.js, working with Agile methodology, presenting the finished project. 
 - 👀 My main focus is Java programming language. I want to learn as much as possible about it's different versions, features, ways to create applications using it. Also, I am learning Spring Framework and the different sub-parts (Spring Security, Spring Boot, Spring Data JPA, etc.) of it.
 - 🔧 The tools that I am learning or using in my projects include: IntelliJ IDEA, Git, Apache Maven, Apache Tomcat, SQL (MySQL, PostgreSQL), JUnit, Elasticsearch, Docker.
