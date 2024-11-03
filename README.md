@@ -1,6 +1,6 @@
 - 👋 Hello, I am Mykolas.
 - 🔧 At my workplace and outside of work I develop software mainly using Java SE together with Spring Framework / Spring Boot ,also some Apache Groovy.
-- :cloud: In my free time I am also interested in DevOps tools and technologies. When building some of my hobby projects, I mainly use and learn Amazon Web Services (AWS), Terraform, Ansible and Docker.
+- :cloud: In my free time I am also interested in DevOps tools and technologies. I mainly focus and use Amazon Web Services (AWS), Microsoft Azure, Terraform, Ansible and Docker.
 
 
 <!---
